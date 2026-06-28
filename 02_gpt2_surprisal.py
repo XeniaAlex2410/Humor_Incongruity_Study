@@ -6,6 +6,7 @@ Computes mean per-token surprisal for each punchline using GPT-2 Small.
 Model choice: GPT-2 Small 
 
 Output: adds 'gpt2_surprisal' column to the dataset.
+"""
 
 import pandas as pd
 import numpy as np
