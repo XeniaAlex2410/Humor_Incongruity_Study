@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Data — not redistributed (see README "Data" section);
+# includes the SemEval/HaHackathon dataset and derived CSVs
+/data/
+
+# Third-party word-frequency resource (SUBTLEX-US)
+/SUBTLEXus74286wordstextversion.txt
